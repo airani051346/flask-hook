@@ -1,6 +1,6 @@
 how to install:
 copy the URL below and add domain(public dns name) and email address as required<br> 
-<img width="655" height="68" alt="image" src="https://github.com/user-attachments/assets/b65df736-8d9a-4eb4-b5fb-79275718075c" />
+<img width="1061" height="136" alt="image" src="https://github.com/user-attachments/assets/a2bb374e-23ee-4300-a550-bdcfb6b22094" />
 
 you can get your dns name from azure
 
