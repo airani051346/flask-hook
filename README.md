@@ -1,8 +1,5 @@
 how to install:
 
 ```bash
-curl kjbkjb| sudo bash 
+curl -sSL https://raw.githubusercontent.com/airani051346/Ubution/refs/heads/main/installer_script.sh | sudo bash -s -- --domain <mydomain.com> --email=<admin-mailaddr> --secret=<mysecrettoken123>
 ```
-
-test localy:  
-cpadmin@awx1:~$ curl -X POST http://127.0.0.1/webhook        -H 'Content-Type: application/json'        -H 'X-Webhook-Token: mysecrettoken123'        -d '{"event":"test","value":123}'
